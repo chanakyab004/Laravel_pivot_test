@@ -15,3 +15,5 @@ And modified web.php for Routing
 
 ->Implemented Version Control for Database using artisan migrate and other commands 
 which is very useful for rollback any database changes.
+
+->In users table displaye the device that he have.
